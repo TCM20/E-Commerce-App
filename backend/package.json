@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon --watch backend -- exec node -- experimental-modules backend/server.js"
+  },
+  "author": "Takara Meredith",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "esm": "^3.2.25",
+    "express": "^4.17.1"
+  }
+}
