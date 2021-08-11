@@ -1,3 +1,9 @@
+Fully functional E-Commerce store using React , Node, Express and MongoDB.
+
+To run, please ensure you use npm start in the store directory and use npm start in the backend directory to run the server and avoid errors.
+_______________________________________________________________________________________________________________________________________________
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
