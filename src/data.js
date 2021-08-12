@@ -22,7 +22,7 @@ const data = {
 
             name: 'Comfortable Stretch Hoodie',
             category: 'Hoodies & Sweatshirts',
-            image: './images/hoodie-1.jpg',
+            image: '/images/hoodie-1.jpg',
             price: 20,
             rating: 5,
             numReviews: 10,
@@ -33,7 +33,7 @@ const data = {
 
             name: 'Denim Jacket',
             category: 'Coats & Jackets',
-            image: './images/denim-jacket.jpg',
+            image: '/images/denim-jacket.jpg',
             price: 30,
             rating: 5,
             numReviews: 15,
@@ -44,7 +44,7 @@ const data = {
 
             name: 'Fluffy Hood Coat',
             category: 'Coats & Jackets',
-            image: './images/fluffy-coat.jpg',
+            image: '/images/fluffy-coat.jpg',
             price: 40,
             rating: 5,
             numReviews: 8,
@@ -55,7 +55,7 @@ const data = {
 
             name: 'Cosy Chill Joggers',
             category: 'Joggers',
-            image: './images/joggers.jpg',
+            image: '/images/joggers.jpg',
             price: 20,
             numReviews: 4,
             description: 'Comfortable 100% Cotton Joggers',
@@ -66,7 +66,7 @@ const data = {
 
             name: 'Quater Length Shorts',
             category: 'Shorts',
-            image: './images/shorts.jpg',
+            image: '/images/shorts.jpg',
             price: 15,
             numReviews: 3,
             description: 'Keep it cool this summer with our Quarter Length Joggers',
@@ -77,7 +77,7 @@ const data = {
 
             name: 'Lacoste Sliders',
             category: 'Footwear',
-            image: './images/sliders.jpg',
+            image: '/images/sliders.jpg',
             price: 25,
             numReviews: 12,
             description: 'Official Lacoste Sliders, perfect for the beach',
@@ -88,7 +88,7 @@ const data = {
 
             name: 'Flex Trainers',
             category: 'Footwear',
-            image: './images/trainers.jpg',
+            image: '/images/trainers.jpg',
             price: 30,
             numReviews: 7,
             description: 'Built for all weather conditions and maximun comfort',
@@ -99,7 +99,7 @@ const data = {
 
             name: 'Cartoon Style Baseball Cap',
             category: 'Accesories',
-            image: './images/cap-1.jpg',
+            image: '/images/cap-1.jpg',
             price: 20,
             numReviews: 20,
             description: 'Show off your creative and fun style with our cool baseball cap',
@@ -110,7 +110,7 @@ const data = {
 
             name: 'Tri Coloured Set of Beanies',
             category: 'Accesories',
-            image: './images/beanies.jpg',
+            image: '/images/beanies.jpg',
             price: 15,
             numReviews: 6,
             description: 'Get all the colours for any occasion with our tri set of beanies!',
@@ -121,7 +121,7 @@ const data = {
 
             name: 'Glazy Days Shades',
             category: 'Accesories',
-            image: './images/shades.jpg',
+            image: '/images/shades.jpg',
             price: 15,
             numReviews: 10,
             description: 'Toirtoise Shell frame with funky pink hues',
